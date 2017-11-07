@@ -10,9 +10,9 @@
 
 ### 2.循环中不要使用复杂表达式
 
-    循环条件会被反复计算，导致性能变差
+   循环条件会被反复计算，导致性能变差
 
-    例:for(int i=0;i＜arry.length;i++) 将arry.length 提成成员变量
+    for(int i=0;i＜arry.length;i++) 将arry.length 提成成员变量
 
 ### 3.循环中不要使用同步方法
 
